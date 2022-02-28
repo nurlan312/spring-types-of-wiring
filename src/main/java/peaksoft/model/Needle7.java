@@ -15,6 +15,6 @@ public class Needle7 {
 
     @Override
     public String toString() {
-        return "в яйце -- игла, -- смерть Кощея." + "";
+        return "в яйце -- игла, " + deth8.toString();
     }
 }
