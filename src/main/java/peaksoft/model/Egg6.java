@@ -15,6 +15,6 @@ public class Egg6 {
 
     @Override
     public String toString() {
-        return ", в яйце иголка" + needle7.toString();
+        return "\nв утке -- яйцо, " + needle7.toString();
     }
 }
